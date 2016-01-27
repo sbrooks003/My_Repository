@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	
+</head>
+  <body>
+
+  	<div> { 
+  
+		<p> I like Chicago.
+			<a> href="http://www.espn.com">ESPN<span>ESPN 4 Sports</span></a>
+		</p>
+
+
+
+  </div>
+
+	<ul>
+	  <li>Staunton</li>
+  	  <li>Browse</li>
+
+	</ul>
+	<ul>
+	  <li>Sign Up</li>
+  	  <li>Log In</li>
+  	  <li>Help</li>
+
+
+	</ul>	
+  </body>
+</html>
